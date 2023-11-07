@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soufiane Fatih</h1>
 <h3 align="center">DÉVELOPPEUR MERN STACK</h3>
-             <img src="https://media.licdn.com/dms/image/C4E16AQG9BuWqHS8CJA/profile-displaybackgroundimage-shrink_350_1400/0/1649474902183?e=1703721600&v=beta&t=G1Qn6TRz1TZ9v6GGOegZ_-6GkXYCRO-XWlbxTikSyWw" alt="">
+             <img src="https://media.licdn.com/dms/image/C4D16AQGMW6lrHtkPMQ/profile-displaybackgroundimage-shrink_350_1400/0/1576434554419?e=1704931200&v=beta&t=iNm5Xj6bOnCmGJtkV1BpV_AenCFxmRce7nLE4Nv7SGM" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianefatih&label=Profile%20views&color=0e75b6&style=flat" alt="soufianefatih" /> </p>
