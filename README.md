@@ -2,7 +2,6 @@
 <h3 align="center">DÉVELOPPEUR MERN STACK</h3>
              <img src="https://media.licdn.com/dms/image/C4D16AQGMW6lrHtkPMQ/profile-displaybackgroundimage-shrink_350_1400/0/1576434554419?e=1704931200&v=beta&t=iNm5Xj6bOnCmGJtkV1BpV_AenCFxmRce7nLE4Nv7SGM" alt="">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianefatih&label=Profile%20views&color=0e75b6&style=flat" alt="soufianefatih" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
