@@ -30,5 +30,7 @@
 <p align="center">
      - 🌱 I’m currently learning **react native**
 
+</p>
+<p align="center">
      - 📫 How to reach me **fatihe.soufiane@gmail.com**
 </p>
