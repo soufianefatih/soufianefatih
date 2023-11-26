@@ -11,7 +11,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soufianefatih&show_icons=true&locale=en" alt="soufianefatih" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soufianefatih&" alt="soufianefatih" /></p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/soufiane-fatih-211ab1129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soufiane-fatih-211ab1129/" height="30" width="40" /></a>
